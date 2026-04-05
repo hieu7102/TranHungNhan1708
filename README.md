@@ -161,6 +161,6 @@ Lab_API/
 
 ## Demo Video
 
-[![Watch Demo](https://drive.google.com/drive/folders/10RhKvGiPmxmjAuNHnASt0lAEYofcnNRg?hl=vi)
+[![Watch Demo](https://drive.google.com/drive/folders/10RhKvGiPmxmjAuNHnASt0lAEYofcnNRg?usp=sharing)
 
 
